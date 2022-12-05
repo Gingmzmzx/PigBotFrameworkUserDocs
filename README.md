@@ -9,3 +9,7 @@
 
 # 贡献
 本文档欢迎任何人提交pr，您可以贡献一些功能的使用教程，也可以写自己的感受。 **欢迎pr！！！**
+
+# 文档地址
+因为GitHub时常抽风，故使用自己服务器搭建了一个稳定的[使用手册](https://userdocqb.xzy.center)  
+同时，GitHub Page也启用，[地址](https://gingmzmzx.github.io/PigBotFrameworkUserDocs/)。所有PR将会优先展示在GitHub Page上，然后同步到稳定的使用手册

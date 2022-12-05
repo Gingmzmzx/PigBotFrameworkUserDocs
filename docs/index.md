@@ -12,8 +12,13 @@
 -   :material-scale-balance:{ .lg .middle } __开源安全__ 插件全部开源，安全可靠
 -   .....还有更多，请前往[介绍页面](https://qqbot.xzy.center)
 
+## 文档
+本文档开源在GitHub：[仓库地址](https://github.com/Gingmzmzx/PigBotFrameworkUserDocs)， **欢迎所有人提交PR！！！**  
+因为GitHub时常抽风，故使用自己服务器搭建了一个稳定的[使用手册](https://userdocqb.xzy.center)  
+同时，GitHub Page也启用，[地址](https://gingmzmzx.github.io/PigBotFrameworkUserDocs/)。所有PR将会优先展示在GitHub Page上，然后同步到稳定的使用手册
+
 ## 使用猪比
 本教程分为两个部分，分别是：
 
-* [机器人教程](/机器人使用)
-* [官网教程](/官网使用)
+* [机器人教程](bot)
+* [官网教程](website)
